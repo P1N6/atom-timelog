@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle timelog",
-        "command": "timelog:toggle"
+        "label": "Add timelog line",
+        "command": "timelog:addLine"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "timelog",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "timelog:toggle"
+              "label": "Add Line",
+              "command": "timelog:addLine"
             }
           ]
         }
