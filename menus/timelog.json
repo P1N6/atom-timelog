@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle timelog",
+        "command": "timelog:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "timelog",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "timelog:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
