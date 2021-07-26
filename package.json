@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "timelog:addLine"
+    "atom-workspace": "timelog:addLine",
+    "atom-workspace": "timelog:parseTimelog"
   },
   "repository": "https://github.com/atom/timelog",
   "license": "MIT",

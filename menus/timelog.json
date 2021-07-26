@@ -17,6 +17,10 @@
             {
               "label": "Add Line",
               "command": "timelog:addLine"
+            },
+            {
+              "lavel": "Parse Timelog",
+              "command": "timelog:parseTimelog"
             }
           ]
         }
